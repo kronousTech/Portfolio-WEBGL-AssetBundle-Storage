@@ -1,0 +1,36 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 4283298654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaa3a2b6bf13b58fea30b440ef4bfaf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f349c36d7a6532f767333f9299b3e74
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb157b4c37cc0a09e15c92a491e121fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Gallery/Memes/Meme04.png
+- Assets/Art/Gallery/Memes/Meme12.png
+- Assets/Art/Gallery/Memes/Meme09.png
+- Assets/Art/Gallery/Memes/Meme07.png
+- Assets/Art/Gallery/Memes/Meme06.png
+- Assets/Art/Gallery/Memes/Meme10.png
+- Assets/Art/Gallery/Memes/Meme11.png
+- Assets/Art/Gallery/Memes/Meme03.png
+- Assets/Art/Gallery/Memes/Meme08.png
+- Assets/Art/Gallery/Memes/Meme02.png
+- Assets/Art/Gallery/Memes/Meme01.png
+- Assets/Art/Gallery/Memes/Meme05.png
+Dependencies: []
+

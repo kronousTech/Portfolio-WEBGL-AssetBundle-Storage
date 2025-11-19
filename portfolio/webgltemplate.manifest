@@ -1,0 +1,23 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 2022718461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 584f7e08193b31a6634c483e6ca59bf7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e1d9b0d99b70e15a4d8ace79251ceb9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/WebGLTemplate/page.png
+Dependencies: []
+

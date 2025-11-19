@@ -1,0 +1,31 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 2535535170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b20dfad45b6c1a0954df1fdaf46e1be2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90a735d90ee62c7d19502c07b13badc7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9731d52c15117cd7ce8990f604ac2f4c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_5.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_1.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Words.mp4
+- Assets/Art/PortfolioContent/Grandola Mupi/Info.mp4
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Screenshot_2.png
+- Assets/Art/PortfolioContent/Grandola Mupi/Barro.mp4
+Dependencies: []
+

@@ -1,0 +1,26 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 2823574223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70ddf48d17ac93cf1ce1030481b98a85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5d281ebb5201c3a78a7ca9de79dd5a1f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/MowerMayhem/p1.png
+- Assets/Art/PortfolioContent/MowerMayhem/p4.png
+- Assets/Art/PortfolioContent/MowerMayhem/p3.png
+- Assets/Art/PortfolioContent/MowerMayhem/p2.png
+Dependencies: []
+

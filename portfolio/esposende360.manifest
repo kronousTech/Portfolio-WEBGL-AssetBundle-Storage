@@ -1,0 +1,24 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 2037891330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6826f1e098a70b9efcdd04cf9007ac2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 49025755d92d1ae00cf77e2099ad8168
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Esposende/Screenshot_6.png
+- Assets/Art/PortfolioContent/Esposende/Screenshot_1.png
+Dependencies: []
+

@@ -1,0 +1,31 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 294433642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce3c3cd501e3a00425a8d446dc435e4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90a735d90ee62c7d19502c07b13badc7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65197226c08ae8a93392afdb17e42ec8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_4.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_3.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_2.png
+- Assets/Art/PortfolioContent/Grandola VR/Screenshot_1.png
+- Assets/Art/PortfolioContent/Grandola VR/Part1.mp4
+- Assets/Art/PortfolioContent/Grandola VR/Part3.mp4
+- Assets/Art/PortfolioContent/Grandola VR/Part2.mp4
+Dependencies: []
+

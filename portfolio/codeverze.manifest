@@ -1,0 +1,23 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 1854917462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 098c466c47bc8bdcece9574d4f49d0eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 26b93f5b8ef0321920ada698016b78cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Codeverze/Logo.png
+Dependencies: []
+

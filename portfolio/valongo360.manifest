@@ -1,0 +1,24 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 3647647132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0a11365a726a2312f1ba6f1ade2670c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa6664bfbb0e7e6db2d5c468d7d5d524
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Valongo360/Screenshot_1.png
+- Assets/Art/PortfolioContent/Valongo360/Screenshot_2.png
+Dependencies: []
+

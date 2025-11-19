@@ -1,0 +1,30 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 4038248594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ae4fc5f81858ee1212fd94334a57af5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90a735d90ee62c7d19502c07b13badc7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 11cee656bc212b3a1547127d1b78c80b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/Ooty/Interior View.png
+- Assets/Art/PortfolioContent/Ooty/House 2.png
+- Assets/Art/PortfolioContent/Ooty/Video1.mp4
+- Assets/Art/PortfolioContent/Ooty/House Editor.png
+- Assets/Art/PortfolioContent/Ooty/House 1.png
+- Assets/Art/PortfolioContent/Ooty/Video2.mp4
+Dependencies: []
+

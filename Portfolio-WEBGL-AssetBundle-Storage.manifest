@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 743582174
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: portfolio/codeverze
+      Dependencies: {}
+    Info_1:
+      Name: portfolio/hivolve_partygolf
+      Dependencies: {}
+    Info_2:
+      Name: portfolio/essani
+      Dependencies: {}
+    Info_3:
+      Name: portfolio/siroco
+      Dependencies: {}
+    Info_4:
+      Name: portfolio/adiravr
+      Dependencies: {}
+    Info_5:
+      Name: portfolio/mower
+      Dependencies: {}
+    Info_6:
+      Name: portfolio/grandolamupi
+      Dependencies: {}
+    Info_7:
+      Name: portfolio/esposende360
+      Dependencies: {}
+    Info_8:
+      Name: gallery/memes
+      Dependencies: {}
+    Info_9:
+      Name: portfolio/grandolavr
+      Dependencies: {}
+    Info_10:
+      Name: portfolio/empigest
+      Dependencies: {}
+    Info_11:
+      Name: portfolio/ooty
+      Dependencies: {}
+    Info_12:
+      Name: portfolio/valongo360
+      Dependencies: {}
+    Info_13:
+      Name: portfolio/goldenergy
+      Dependencies: {}
+    Info_14:
+      Name: portfolio/grandolaar
+      Dependencies: {}
+    Info_15:
+      Name: portfolio/sabseg
+      Dependencies: {}
+    Info_16:
+      Name: portfolio/webgltemplate
+      Dependencies: {}
+    Info_17:
+      Name: portfolio/superbock
+      Dependencies: {}
+    Info_18:
+      Name: gallery/face
+      Dependencies: {}

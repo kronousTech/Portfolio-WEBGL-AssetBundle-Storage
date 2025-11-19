@@ -1,0 +1,23 @@
+BundleVersion: 202511194200
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 456384122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cdbb0bdf3e248cc0bbf24bcbf58bee0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 32660652ade4e89a8fc8c71f66374e94
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Face/Face.png
+Dependencies: []
+

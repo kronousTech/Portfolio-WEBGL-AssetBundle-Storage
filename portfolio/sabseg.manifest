@@ -1,26 +1,23 @@
-BundleVersion: 202511201243
+BundleVersion: 202511215156
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 2229581619
+CRC: 2556563622
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbe9b76948469573192fa33ee0816f92
+    Hash: d6a8a7cabe4e4f9c6dd6e849d1c0b4d8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 90a735d90ee62c7d19502c07b13badc7
+    Hash: 5527383dc91eba37123fc67ad6efaa19
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 04e3a79b9ec8581e5aa49c9fd32155a4
+    Hash: 895db5bd84042deb3b153f6b00dd64ed
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 329
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Art/PortfolioContent/SABSEG/Screenshot_5.png
-- Assets/Art/PortfolioContent/SABSEG/Intro.mp4
 Dependencies: []
 

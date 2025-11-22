@@ -1,28 +1,25 @@
-BundleVersion: 202511201243
+BundleVersion: 202511215156
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 2079338704
+CRC: 1295595792
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b752554566461c8faf4336c3b5c7bf0c
+    Hash: 42aa389e6b2e044f0f63979cf6101444
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 90a735d90ee62c7d19502c07b13badc7
+    Hash: 5527383dc91eba37123fc67ad6efaa19
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 142437f9f28099d554af034ae80c9c32
+    Hash: 8269c63730e029afe021e2c3aaa351c0
 HashAppended: 0
 ClassTypes:
 - Class: 28
-  Script: {instanceID: 0}
-- Class: 329
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Art/PortfolioContent/Siroco/Screenshot_4.png
 - Assets/Art/PortfolioContent/Siroco/Screenshot_3.png
-- Assets/Art/PortfolioContent/Siroco/Transition.mp4
 - Assets/Art/PortfolioContent/Siroco/Screenshot_2.png
 - Assets/Art/PortfolioContent/Siroco/Screenshot_1.png
 - Assets/Art/PortfolioContent/Siroco/Screenshot_5.png

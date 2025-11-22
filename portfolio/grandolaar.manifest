@@ -1,30 +1,26 @@
-BundleVersion: 202511201243
+BundleVersion: 202511215156
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 837926768
+CRC: 3314433574
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 071a1becdbd34f8240840370ee4a4c70
+    Hash: 00f37bcdd4afaf2c827c3e89685f3f89
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 90a735d90ee62c7d19502c07b13badc7
+    Hash: 5527383dc91eba37123fc67ad6efaa19
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a243f2a80099d21847a4959e66dc8013
+    Hash: 7b9386f344faf55518f495519ad996e5
 HashAppended: 0
 ClassTypes:
 - Class: 28
-  Script: {instanceID: 0}
-- Class: 329
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Art/PortfolioContent/Grandola AR/Screenshot_1.png
 - Assets/Art/PortfolioContent/Grandola AR/Screenshot_2.png
 - Assets/Art/PortfolioContent/Grandola AR/Screenshot_3.png
-- Assets/Art/PortfolioContent/Grandola AR/GrandolaARPart1.mp4
 - Assets/Art/PortfolioContent/Grandola AR/Screenshot_4.png
-- Assets/Art/PortfolioContent/Grandola AR/GrandolaARPart2.mp4
 Dependencies: []
 

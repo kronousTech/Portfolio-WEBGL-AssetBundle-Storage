@@ -1,26 +1,23 @@
-BundleVersion: 202511201243
+BundleVersion: 202511215156
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 3158186894
+CRC: 3919486247
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a182071a1880f90bf551e47ac9e3fee4
+    Hash: 23645b5abd2698f56f1224b27d78c1f6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 90a735d90ee62c7d19502c07b13badc7
+    Hash: 5527383dc91eba37123fc67ad6efaa19
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7034db76da3067300db3da1b68d61164
+    Hash: d8bd0bb7dba617b17be073164200647b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 329
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/PortfolioContent/hivolve_PartyGolf/Gameplay.mp4
 - Assets/Art/PortfolioContent/hivolve_PartyGolf/Gameplay.png
 - Assets/Art/PortfolioContent/hivolve_PartyGolf/Shop.png
 - Assets/Art/PortfolioContent/hivolve_PartyGolf/MainMenu.png

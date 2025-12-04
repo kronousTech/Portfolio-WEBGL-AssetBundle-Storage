@@ -1,17 +1,17 @@
-BundleVersion: 202512044640
+BundleVersion: 202512040617
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 2549593216
+CRC: 3743197171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 354e7a58919b750b665c609d58482321
+    Hash: 639a5593de2c1289a2116c6fa8229d10
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f349c36d7a6532f767333f9299b3e74
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27c8f363e59ea148015d0670a3f6cd4a
+    Hash: 8681a5653627251e256a1b82b9657c7f
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -20,7 +20,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/PortfolioContent/KendirStudios/Cover.jpeg
-- Assets/Art/PortfolioContent/KendirStudios/Logo.jpeg
+- Assets/Art/PortfolioContent/KendirStudios/Screenshot_1.png
+- Assets/Art/PortfolioContent/KendirStudios/Screenshot_3.png
 Dependencies: []
 

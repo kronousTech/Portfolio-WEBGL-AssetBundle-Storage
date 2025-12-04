@@ -1,17 +1,17 @@
 BundleVersion: 202512044640
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 2438526835
+CRC: 2513033555
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb8fb60a2fee71ef7a328fde5291d5d4
+    Hash: 951cd89935ed7838ef69d3344181e5b6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f349c36d7a6532f767333f9299b3e74
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a6acb6d75a6957d71561363b36493a8d
+    Hash: 3514c64409c2f268397c0b1e3eccaef0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -20,6 +20,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Art/PortfolioContent/SABSEG/Screenshot_5.png
+- Assets/Art/PortfolioContent/ScriptViewer/CardImage.png
+- Assets/Art/PortfolioContent/ScriptViewer/Screenshot_3.png
+- Assets/Art/PortfolioContent/ScriptViewer/Screenshot_5.png
+- Assets/Art/PortfolioContent/ScriptViewer/Screenshot_4.png
 Dependencies: []
 

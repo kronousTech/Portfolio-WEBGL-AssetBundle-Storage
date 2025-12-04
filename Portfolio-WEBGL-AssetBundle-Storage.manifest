@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 1217866781
+CRC: 2569498603
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -60,4 +60,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_18:
       Name: gallery/face
+      Dependencies: {}
+    Info_19:
+      Name: portfolio/scriptviewer
+      Dependencies: {}
+    Info_20:
+      Name: portfolio/kendirstudios
       Dependencies: {}

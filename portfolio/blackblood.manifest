@@ -1,0 +1,28 @@
+BundleVersion: 202610163717
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 2178223648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef8c378b69d32393650c72bf4adf2592
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc9f87c7e64ff656997db0f2b2a91703
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44e7f6c55050246c2ca224a35491e7bb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/PortfolioContent/BlackBlood/Screenshot_3.png
+- Assets/Art/PortfolioContent/BlackBlood/Logo.png
+- Assets/Art/PortfolioContent/BlackBlood/Screenshot_2.png
+- Assets/Art/PortfolioContent/BlackBlood/Screenshot_1.png
+Dependencies: []
+

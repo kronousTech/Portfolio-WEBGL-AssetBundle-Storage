@@ -1,17 +1,17 @@
-BundleVersion: 202512095825
+BundleVersion: 202610163717
 ManifestFileVersion: 0
-UnityVersion: 6000.0.58f2
-CRC: 1125077784
+UnityVersion: 6000.3.11f1
+CRC: 745688717
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2cc173221a4ec64d2cee1f5ed4d24bed
+    Hash: fca6bc7750feb516a135c8ad80e3750a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9f349c36d7a6532f767333f9299b3e74
+    Hash: bc9f87c7e64ff656997db0f2b2a91703
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4def2b7d2dc70f886ddbb362ce1fdced
+    Hash: 7718cffc3809f52efbdb27e22b60dd4d
 HashAppended: 0
 ClassTypes:
 - Class: 28
